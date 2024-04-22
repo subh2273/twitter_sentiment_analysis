@@ -22,4 +22,4 @@ For training the models, we provide a labelled dataset of 31,962 tweets. The dat
 
 <li>Logistic Regression
   
-**Best Model Accuracy:** 95.00
+**Best Model Accuracy:** 95%
